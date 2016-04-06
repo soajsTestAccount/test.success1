@@ -10,6 +10,7 @@ module.exports = {
 	requestTimeoutRenewal: 5,
 	extKeyRequired: true,
 	prerequisites: {},
+	main: 'index.js',
 	"errors": {
 		"600": "Database error",
 		"601": "Missing info"

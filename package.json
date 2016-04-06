@@ -1,0 +1,27 @@
+{
+  "name": "test.success1",
+  "description": "Demo test service",
+  "version": "0.0.1",
+  "author": {
+    "name": "soajs team",
+    "email": "team@soajs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:soajsTestAccount/test.success1.git"
+  },
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "peerDependencies": {
+    "soajs": "0.2.*"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
