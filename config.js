@@ -4,7 +4,7 @@ module.exports = {
 	type: 'service',
 	serviceName: "sampleSuccessSingle",
 	serviceGroup: "test",
-	servicePort: 2002,
+	servicePort: 2004,
 	//serviceVersion: 1,
 	requestTimeout: 30,
 	requestTimeoutRenewal: 5,
