@@ -2,7 +2,7 @@
 
 module.exports = {
 	type: 'service',
-	serviceName: "sampleSuccessSingle",
+	serviceName: "samplesuccesssingle",
 	serviceGroup: "test",
 	servicePort: 2004,
 	//serviceVersion: 1,
