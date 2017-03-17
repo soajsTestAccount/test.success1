@@ -9,7 +9,9 @@ module.exports = {
 	requestTimeout: 30,
 	requestTimeoutRenewal: 5,
 	extKeyRequired: true,
-	prerequisites: {},
+	prerequisites: {
+		memory: 500
+	},
 	main: 'index.js',
 	"errors": {
 		"600": "Database error",
